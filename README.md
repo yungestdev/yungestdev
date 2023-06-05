@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm yungestDev 👋
 
 ![OS Project](https://your-image-link.png)
 

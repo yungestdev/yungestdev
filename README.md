@@ -20,7 +20,7 @@ I am currently working on developing my own operating system from scratch. This 
 
 ## Skills
 
-- **Programming Languages**: C, C++, Assembly, Python, Java, JavaScript, Lua
+- **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, Lua
 - **Operating Systems**: Linux, Windows
 - **Version Control**: Git
 

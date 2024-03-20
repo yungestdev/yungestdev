@@ -1,7 +1,4 @@
 # Hello, I'm yungestDev 👋
-
-![OS Project](https://your-image-link.png)
-
 I am a self-taught developer on a mission to build an operating system from scratch. Welcome to my GitHub profile! Here, you'll find my journey as I dive deep into the world of low-level programming and system development.
 
 ## About Me
@@ -20,12 +17,12 @@ I am currently working on developing my own operating system from scratch. This 
 
 ## Skills
 
-- **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, Lua
-- **Operating Systems**: Linux, Windows
+- **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, Lua, HTML, CSS and a bit of Rust
+- **Operating Systems**: Linux, Windows, MacOS too but on a VM
 - **Version Control**: Git
 
 ## Get in Touch
 
-📫 If you have any questions, ideas, or just want to connect, feel free to reach out to me via [email](mailto:yungestmonsterhahaha@gmail.com) .
+📫 If you have any questions, ideas, or just want to connect, feel free to reach out to me via [email](mailto:yungestdev@gmail.com) .
 
 I'm always open to new opportunities and collaborations. Let's build something amazing together! 😄

@@ -18,7 +18,7 @@ I am currently working on developing my own operating system from scratch. This 
 ## Skills
 
 - **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, TypeScript, Lua, HTML, CSS and a bit of Rust and Dart
-- **Frameworks: React Native, NextJS, Django, Flask and the basics of Flutter
+- **Frameworks**: React Native, NextJS, Django, Flask and the basics of Flutter
 - **Operating Systems**: Linux, Windows, MacOS too but on a VM
 - **Version Control**: Git
 

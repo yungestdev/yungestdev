@@ -4,20 +4,20 @@ I am a self-taught developer on a mission to build an operating system from scra
 ## About Me
 
 - 💻 Self-taught developer passionate about building things from scratch.
-- 🌱 Currently focused on building my own operating system.
+- 🌱 Currently focused on mastering Web3.
 - 🎓 Constantly learning new technologies and expanding my knowledge.
 - 👯 Open to collaboration on interesting projects.
 - ⚡ Fun fact: I love exploring the intersection of technology and creativity.
 
 ## Projects
 
-### [Operating System from Scratch](https://github.com/yungestdev/yungestOS)
+### [Cyber Sentinels](https://cybersentinels.net)
 
-I am currently working on developing my own operating system from scratch. This ambitious project involves diving into the intricate details of kernel development, system architecture, and low-level programming. Through this journey, I aim to gain a deep understanding of how computer systems work and challenge myself to overcome complex technical hurdles. Feel free to explore the repository and join me on this exciting adventure!
+I am currently working as the owner of the Italian White Hat Community that fights Cyber Crimes against kids and teach new generation programming and cyber security.
 
 ## Skills
 
-- **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, TypeScript, Lua, HTML, CSS and a bit of Rust and Dart
+- **Programming Languages**: C, C++, C#, Assembly, Python, Java, JavaScript, Solidity, TypeScript, Lua, HTML, CSS and a bit of Rust and Dart
 - **Frameworks**: React Native, NextJS, Django, Flask and the basics of Flutter
 - **Operating Systems**: Linux, Windows, MacOS too but on a VM
 - **Version Control**: Git

@@ -1,5 +1,5 @@
 # Hello, I'm yungestDev 👋
-I am a self-taught developer on a mission to build an operating system from scratch. Welcome to my GitHub profile! Here, you'll find my journey as I dive deep into the world of low-level programming and system development.
+I am a self-taught developer on a mission to innovate the world. Welcome to my GitHub profile! Here, you'll find my journey as I dive deep into the world of programming and cyber security.
 
 ## About Me
 
